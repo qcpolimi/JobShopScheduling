@@ -1,0 +1,12 @@
+dimod
+dwave-greedy
+dwave-hybrid                  
+dwave-neal                    
+dwave-ocean-sdk               
+dwave-system                  
+dwave-tabu                    
+dwavebinarycsp
+matplotlib
+numpy
+penaltymodel
+seaborn
