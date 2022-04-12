@@ -1,7 +1,7 @@
 # Job Shop Scheduling
 This repository hosts the code in support of the article "Evaluating the Job Shop Scheduling Problem on a D-Wave Quantum Annealer", published on Nature Scientific Reports as part of the "Quantum information and computing" guest edited collection. 
 
-Additional visualization from the article are available in the extra folder.
+Additional visualizations and tables from the article are available in the extra folder.
 
 ## Installation
 You can try the code by installing the supporting libraries. 
