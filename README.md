@@ -1,5 +1,3 @@
-[![Repo DOI](https://zenodo.org/badge/419178547.svg)](https://doi.org/10.1038/s41598-022-10169-0)
-
 # Job Shop Scheduling
 This repository hosts the code in support of the article "Evaluating the Job Shop Scheduling Problem on a D-Wave Quantum Annealer", published on Nature Scientific Reports as part of the "Quantum information and computing" guest edited collection. See the websites of our [quantum computing group](https://quantum.polimi.it/) for more information on our teams and works.
 
